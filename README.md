@@ -1,2 +1,0 @@
-sample-mongoctl-repository
-==========================
